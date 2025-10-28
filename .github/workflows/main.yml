@@ -13,7 +13,7 @@ jobs:
 
     defaults:
       run:
-        working-directory: Assignment-3-Temperature-Converter-Project
+        working-directory: 'Assignment 3 Temperature Converter Project'
 
     steps:
       # Step 1: Checkout repository
